@@ -1,1 +1,1 @@
-# jupyter-teaching
+# masters-day1
